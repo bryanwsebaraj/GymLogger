@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GymLogger",
+    "slug": "GymLogger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GymLogger"
+}
